@@ -22,7 +22,9 @@ export default function About() {
                 <div className='flex col w-30 f-1 my-1'>
                     <p className='desc'>
                         I AM SELF-TAUGHT DEVELOPER WITH 3+ YEARS OF EXPERIENCE.</p>
-                    <button className='about_call_to_action'>View Profile</button>
+                    <button className='about_call_to_action' onClick={() => {
+                     window.location.replace("https://www.upwork.com/freelancers/~01c717440d98b8c26e") 
+                    }}>View Profile</button>
                 </div>
         </div>
 

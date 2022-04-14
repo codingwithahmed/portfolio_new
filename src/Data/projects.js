@@ -18,7 +18,7 @@ export const data = [
     {
         name:"FactDB" ,
         desc:"Check Social media post, Youtube video or any web link and earn FactCoin. Every fact-check is available on Public Ledger. Let’s build safer digital world together.", 
-        src:"https//factdb.net",
+        src:"https://factdb.net/",
         img:"https://factdb.net/static/media/Amd.ee1e0e0f.png",
     },
     {
